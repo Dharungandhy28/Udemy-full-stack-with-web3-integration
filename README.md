@@ -48,4 +48,26 @@ This repository serves as:
 
 ---
 
+## Tech Stack
 
+Frontend:
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- React.js
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB / PostgreSQL
+
+Other Tools:
+- Git
+- GitHub
+- NPM
+- REST APIs
+
+---
