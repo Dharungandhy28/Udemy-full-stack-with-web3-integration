@@ -33,7 +33,6 @@ Technologies learned and used throughout this repository include:
 - MongoDB / PostgreSQL
 - Authentication (OAuth / Sessions / Cookies)
 - React.js
-- Web3 Basics
 
 ---
 
